@@ -1,0 +1,16 @@
+{
+  "name": "uniq",
+  "description": "",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betula/uniq.git"
+  }
+}
